@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+#campos{
+    justify-content: flex-start;
+}
+textarea{
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+#Agregar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
